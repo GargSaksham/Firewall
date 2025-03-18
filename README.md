@@ -28,7 +28,7 @@ This project is a Python-based Firewall Scanner with a GUI interface designed to
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/firewall-scanner.git
+   git clone https://github.com/GargSaksham/Firewall.git
    ```
 
 ## Usage
